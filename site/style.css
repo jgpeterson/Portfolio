@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://i.imgur.com/FX8PI3b.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
